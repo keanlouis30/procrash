@@ -1,7 +1,11 @@
 # Procrash  
-*"Crash procrastination, conquer your goals!"*  
+*"Level up your life, one goal at a time."*
 
-Procrash is a gamified self-improvement app designed to help you overcome procrastination and achieve your personal goals. Inspired by popular card-based games like *Slay the Spire*, Procrash makes goal-setting and habit formation fun, interactive, and rewarding.  
+People tend to procrastinate because they don’t know how to do a certain task or where to start, which is why they keep delaying things. This is also supported by Parkinson’s Law, which states that "work expands to fill the time available for its completion," meaning that without clear deadlines or direction, tasks can feel overwhelming and are often put off indefinitely.
+
+Procrastination isn’t just about laziness; it’s about the lack of structure, motivation, and emotional support. People struggle to break big goals into manageable steps and often feel defeated before they even start.
+
+Meet *Procrash* is a gamified self-improvement app designed to help you overcome procrastination and achieve your personal goals. Inspired by popular card-based games like *Slay the Spire*, Procrash makes goal-setting and habit formation fun, interactive, and rewarding.  
 
 ## Features  
 - **Gamified Goal Setting**  
