@@ -19,24 +19,22 @@ Procrash is a gamified self-improvement app designed to help you overcome procra
 1. **Set Your Ultimate Goal**  
    Start by defining a big goal (e.g., "Drink 8 glasses of water daily").  
 2. **Break It Down**  
-   Add mini-goals (cards) like "Drink 1 glass right now" or "Do 10 pushups."  
+   The app creates mini-goals in the form of cards, like "Drink 1 glass right now" or "Do 10 pushups."  
 3. **Battle Procrastination**  
    Each time you complete a task, the procrastination boss loses health.  
 4. **Celebrate Your Wins**  
    Defeat bosses, earn rewards, and set new goals to keep improving!  
 
 ## Screenshots  
-![App Screenshot 1](path-to-screenshot-1)  
-![App Screenshot 2](path-to-screenshot-2)  
-![App Screenshot 3](path-to-screenshot-3)  
+![App Screenshot 1](1.png)  
+![App Screenshot 2](2.png)  
+![App Screenshot 3](3.png)  
 
 ## Tech Stack  
 - **Frontend:** FlutterFlow  
 - **Backend:** Firebase (Authentication, Firestore)  
 - **Tools:** GitHub, VS Code  
 
-## Installation  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/procrash.git  
-   cd procrash  
+## Website
+Check out the app at 
+https://procrash-hdps5h.flutterflow.app/
